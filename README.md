@@ -1,2 +1,83 @@
 # Awesome-Agent-Framework
-🌟 持续更新的精选热门Agent开发框架集合 | A continuously updated, curated collection of popular Agent frameworks.
+
+A curated list of popular and influential Agent frameworks. Join our community through AgentSpace Assistant for discussions. For framework submissions, contact: agentspaceai@gmail.com
+
+This project is continuously being updated. Stay tuned for more updates!
+
+AgentSpace精选主流Agent开发框架集合，欢迎通过AgentSpace助手交流讨论。框架收录请联系：agentspaceai@gmail.com。
+
+项目持续更新中，敬请持续关注！
+
+|                          Framework                           | Link                                                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------- |
+| Agents 2.0: Symbolic Learning Enables Self-Evolving Agents<br />![Agents 2.0: Symbolic Learning Enables Self-Evolving Agents](https://img.shields.io/github/stars/aiwaves-cn/agents) | [aiwaves-cn/agents: An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents (github.com)](https://github.com/aiwaves-cn/agents) |
+| AgentVerse <br />![](https://img.shields.io/github/stars/OpenBMB/AgentVerse) | [OpenBMB/AgentVerse: 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation (github.com)](https://github.com/OpenBMB/AgentVerse) |
+| AgentForge   <br />![](https://img.shields.io/github/stars/DataBassGit/AgentForge) | [DataBassGit/AgentForge: Extensible AGI Framework (github.com)](https://github.com/DataBassGit/AgentForge) |
+| Upsonic<br />        ![](https://img.shields.io/github/stars/Upsonic/Upsonic) | [Upsonic/Upsonic: Task oriented AI agent framework for digital workers and vertical AI agents (github.com)](https://github.com/Upsonic/Upsonic) |
+| Qwen-Agent<br />![](https://img.shields.io/github/stars/QwenLM/Qwen-Agent) | [QwenLM/Qwen-Agent: Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. (github.com)](https://github.com/QwenLM/Qwen-Agent) |
+| CrewAI <br />         ![](https://img.shields.io/github/stars/crewAIInc/crewAI) | [crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (github.com)](https://github.com/crewAIInc/crewAI) |
+| PydanticAI<br />   ![](https://img.shields.io/github/stars/pydantic/pydantic-ai) | [pydantic/pydantic-ai: Agent Framework / shim to use Pydantic with LLMs (github.com)](https://github.com/pydantic/pydantic-ai) |
+| SuperAGI<br />      ![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI) | [TransformerOptimus/SuperAGI: <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. (github.com)](https://github.com/TransformerOptimus/SuperAGI) |
+| Lagent<br />          ![](https://img.shields.io/github/stars/InternLM/lagent) | [InternLM/lagent: A lightweight framework for building LLM-based agents (github.com)](https://github.com/InternLM/lagent) |
+| AgentOps <br />    ![](https://img.shields.io/github/stars/AgentOps-AI/agentops) | [AgentOps-AI/agentops: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Langchain, Autogen, AG2, and CamelAI (github.com)](https://github.com/AgentOps-AI/agentops) |
+| PromptWizard<br />![](https://img.shields.io/github/stars/microsoft/PromptWizard) | [microsoft/PromptWizard: Task-Aware Agent-driven Prompt Optimization Framework (github.com)](https://github.com/microsoft/PromptWizard) |
+| AutoGen<br />        ![](https://img.shields.io/github/stars/microsoft/autogen) | [microsoft/autogen: A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour (github.com)](https://github.com/microsoft/autogen) |
+| TEN <br />              ![](https://img.shields.io/github/stars/TEN-framework/ten_framework) | [TEN-framework/ten_framework: TEN, a voice agent framework to create conversational AI. (github.com)](https://github.com/TEN-framework/ten_framework) |
+| LLMStack  <br />    ![](https://img.shields.io/github/stars/trypromptly/LLMStack) | [trypromptly/LLMStack: No-code multi-agent framework to build LLM Agents, workflows and applications with your data (github.com)](https://github.com/trypromptly/LLMStack) |
+| Agent S   <br />     ![](https://img.shields.io/github/stars/simular-ai/Agent-S) | [simular-ai/Agent-S: Agent S: an open agentic framework that uses computers like a human (github.com)](https://github.com/simular-ai/Agent-S) |
+| TaskWeaver<br />![](https://img.shields.io/github/stars/microsoft/TaskWeaver) | [microsoft/TaskWeaver: A code-first agent framework for seamlessly planning and executing data analytics tasks. (github.com)](https://github.com/microsoft/TaskWeaver) |
+| RagaAI Catalyst<br />![](https://img.shields.io/github/stars/raga-ai-hub/RagaAI-Catalyst) | [raga-ai-hub/RagaAI-Catalyst: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view (github.com)](https://github.com/raga-ai-hub/RagaAI-Catalyst) |
+| Adala      <br />      ![](https://img.shields.io/github/stars/HumanSignal/Adala) | [HumanSignal/Adala: Adala: Autonomous DAta (Labeling) Agent framework (github.com)](https://github.com/HumanSignal/Adala) |
+| CEO-Agentic AI framework<br />   ![](https://img.shields.io/github/stars/vortezwohl/CEO-Agentic-AI-Framework) | [vortezwohl/CEO-Agentic-AI-Framework: An ultra-lightweight agentic AI framework based on the ReAct paradigm. (github.com)](https://github.com/vortezwohl/CEO-Agentic-AI-Framework) |
+| Agency Swarm<br />![](https://img.shields.io/github/stars/VRSEN/agency-swarm) | [VRSEN/agency-swarm: The only reliable agent framework built on top of the latest OpenAI Assistants API. (github.com)](https://github.com/VRSEN/agency-swarm) |
+| Pippin      <br />      ![](https://img.shields.io/github/stars/pippinlovesyou/pippin) | [pippinlovesyou/pippin: The Digital Being Framework for Autonomous Agents (github.com)](https://github.com/pippinlovesyou/pippin) |
+| Agently        <br />  ![](https://img.shields.io/github/stars/AgentEra/Agently) | [AI Agent Application Development Framework\] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI Agent using plugins instead of rebuild a whole new agent (github.com)](https://github.com/AgentEra/Agently) |
+| AI Agents Framework<br />![](https://img.shields.io/github/stars/microsoft/project-oagents) | [microsoft/project-oagents: Experimental AI Agents Framework (github.com)](https://github.com/microsoft/project-oagents) |
+| LangGraph.js<br />![](https://img.shields.io/github/stars/langchain-ai/langgraphjs) | [langchain-ai/langgraphjs: Framework to build resilient language agents as graphs. (github.com)](https://github.com/langchain-ai/langgraphjs) |
+| AgentLab  <br />    ![](https://img.shields.io/github/stars/ServiceNow/AgentLab) | [ServiceNow/AgentLab: AgentLab: An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility. (github.com)](https://github.com/ServiceNow/AgentLab) |
+| ASTRA AI FRAMEWORK<br />![](https://img.shields.io/github/stars/norris61w/astra_ai_framework) | [norris61w/astra_ai_framework: AstraAI Framework streamlines on-chain operations with three integrated components: gateways, validators and AI agents (github.com)](https://github.com/norris61w/astra_ai_framework) |
+| Bee Agent Framework Starter    <br />      ![](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework-starter) | [i-am-bee/bee-agent-framework-starter: Template to quickly start working with Bee Agent Framework. (github.com)](https://github.com/i-am-bee/bee-agent-framework-starter) |
+| IntentKit   <br />     ![](https://img.shields.io/github/stars/crestalnetwork/intentkit) | [crestalnetwork/intentkit: An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both! (github.com)](https://github.com/crestalnetwork/intentkit) |
+| Parlant        <br />   ![](https://img.shields.io/github/stars/emcie-co/parlant) | [emcie-co/parlant: The heavy-duty guidance framework for customer-facing LLM agents (github.com)](https://github.com/emcie-co/parlant) |
+| Director     <br />    ![](https://img.shields.io/github/stars/video-db/Director) | [video-db/Director: AI video agents framework for next-gen video interactions and workflows. (github.com)](https://github.com/video-db/Director) |
+| Griptape     <br />  ![](https://img.shields.io/github/stars/griptape-ai/griptape) | [griptape-ai/griptape: Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. (github.com)](https://github.com/griptape-ai/griptape) |
+| smolagents <br />![](https://img.shields.io/github/stars/huggingface/smolagents) | [huggingface/smolagents: 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (github.com)](https://github.com/huggingface/smolagents) |
+| Agent4Rec <br />![](https://img.shields.io/github/stars/LehengTHU/Agent4Rec) | [SIGIR 2024 perspective\] The implementation of paper "On Generative Agents in Recommendation" (github.com)](https://github.com/LehengTHU/Agent4Rec) |
+| AgentGPT <br />![](https://img.shields.io/github/stars/reworkd/AgentGPT) | [reworkd/AgentGPT: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (github.com)](https://github.com/reworkd/AgentGPT) |
+| Agent Pilot <br />![](https://img.shields.io/github/stars/jbexta/AgentPilot) | [jbexta/AgentPilot: A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows. (github.com)](https://github.com/jbexta/AgentPilot) |
+| mcp-agent<br />![](https://img.shields.io/github/stars/lastmile-ai/mcp-agent) | [lastmile-ai/mcp-agent: Build effective agents using Model Context Protocol and simple workflow patterns (github.com)](https://github.com/lastmile-ai/mcp-agent) |
+| Agent Zero<br />![](https://img.shields.io/github/stars/frdel/agent-zero) | [frdel/agent-zero: Agent Zero AI framework (github.com)](https://github.com/frdel/agent-zero) |
+| MetaGPT: The Multi-Agent Framework<br />![](https://img.shields.io/github/stars/geekan/MetaGPT) | [geekan/MetaGPT: 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (github.com)](https://github.com/geekan/MetaGPT) |
+| Agno<br />![](https://img.shields.io/github/stars/agno-agi/agno) | [agno-agi/agno: Agno is a lightweight framework for building multi-modal Agents (github.com)](https://github.com/agno-agi/agno) |
+| LlamaIndex<br />![](https://img.shields.io/github/stars/run-llama/llama_index) | [run-llama/llama_index: LlamaIndex is the leading framework for building LLM-powered agents over your data. (github.com)](https://github.com/run-llama/llama_index) |
+| Botshap<br />![](https://img.shields.io/github/stars/SciSharp/BotSharp) | https://github.com/SciSharp/BotSharp                         |
+| ModelScope-Agent<br />![](https://img.shields.io/github/stars/modelscope/modelscope-agent) | [modelscope/modelscope-agent: ModelScope-Agent: An agent framework connecting models in ModelScope with the world (github.com)](https://github.com/modelscope/modelscope-agent) |
+| Python MARL framework<br />![](https://img.shields.io/github/stars/oxwhirl/pymarl) | [oxwhirl/pymarl: Python Multi-Agent Reinforcement Learning framework (github.com)](https://github.com/oxwhirl/pymarl) |
+| Multi-Agent Orchestrator<br />![](https://img.shields.io/github/stars/awslabs/multi-agent-orchestrator) | [awslabs/multi-agent-orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations (github.com)](https://github.com/awslabs/multi-agent-orchestrator) |
+| uAgents: AI Agent Framework<br />![](https://img.shields.io/github/stars/fetchai/uAgents) | [fetchai/uAgents: A fast and lightweight framework for creating decentralized agents with ease. (github.com)](https://github.com/fetchai/uAgents) |
+| agentUniverse<br />![](https://img.shields.io/github/stars/antgroup/agentUniverse) | [antgroup/agentUniverse: agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. (github.com)](https://github.com/antgroup/agentUniverse) |
+| LaVague<br />![](https://img.shields.io/github/stars/antgroup/agentUniverse) | [antgroup/agentUniverse: agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. (github.com)](https://github.com/antgroup/agentUniverse) |
+| Swarm<br />![](https://img.shields.io/github/stars/openai/swarm) | [openai/swarm: Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. (github.com)](https://github.com/openai/swarm) |
+| LlamaDeploy<br />![](https://img.shields.io/github/stars/run-llama/llama_deploy) | [run-llama/llama_deploy: Deploy your agentic worfklows to production (github.com)](https://github.com/run-llama/llama_deploy) |
+| CAMEL<br />![](https://img.shields.io/github/stars/camel-ai/camel) | [camel-ai/camel: 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (github.com)](https://github.com/camel-ai/camel) |
+| muAgent<br />![](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent) | [codefuse-ai/CodeFuse-muAgent: An Innovative Agent Framework Driven by KG Engine (github.com)](https://github.com/codefuse-ai/CodeFuse-muAgent) |
+| AgentKit<br />![](https://img.shields.io/github/stars/Holmeswww/AgentKit) | [Holmeswww/AgentKit: An intuitive LLM prompting framework for multifunctional agents, by explicitly constructing a complex "thought process" from simple natural language prompts. (github.com)](https://github.com/Holmeswww/AgentKit) |
+| Swarms<br />![](https://img.shields.io/github/stars/kyegomez/swarms) | [kyegomez/swarms: The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.gg/jM3Z6M9uMq (github.com)](https://github.com/kyegomez/swarms) |
+| MindSearch<br />![](https://img.shields.io/github/stars/InternLM/MindSearch) | [InternLM/MindSearch: 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT) (github.com)](https://github.com/InternLM/MindSearch) |
+| Praison AI<br />![](https://img.shields.io/github/stars/MervinPraison/PraisonAI) | [MervinPraison/PraisonAI: PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration. (github.com)](https://github.com/MervinPraison/PraisonAI) |
+| motleycrew<br />![](https://img.shields.io/github/stars/ShoggothAI/motleycrew) | [ShoggothAI/motleycrew: Flexible and powerful multi-agent AI framework (github.com)](https://github.com/ShoggothAI/motleycrew) |
+| Bee Agent Framework<br />![](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework) | [i-am-bee/bee-agent-framework: Framework for building scalable agentic applications. (github.com)](https://github.com/i-am-bee/bee-agent-framework) |
+| OWL<br />![](https://img.shields.io/github/stars/camel-ai/owl) | [camel-ai/owl: 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (github.com)](https://github.com/camel-ai/owl) |
+|                                                              |                                                              |
+
+
+
+## 联系我们：
+
+Join us in exploring the Agent field! Scan the QR code below to follow our official account for more Agent updates. Add our assistant to join the technical discussion group.
+
+
+
+期待与您在Agent领域共同成长，扫描下方二维码，关注公众号获取Agent前沿速递、垂域综观等精选资讯，添加小助手即可加入技术交流群。
+
+<img src="https://mywechat-agent.oss-cn-beijing.aliyuncs.com/img/20250402201207731.jpg" width="50%">
