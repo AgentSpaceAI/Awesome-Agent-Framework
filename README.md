@@ -68,7 +68,8 @@ AgentSpace精选主流Agent开发框架集合，欢迎通过AgentSpace助手交�
 | motleycrew<br />![](https://img.shields.io/github/stars/ShoggothAI/motleycrew) | [ShoggothAI/motleycrew: Flexible and powerful multi-agent AI framework (github.com)](https://github.com/ShoggothAI/motleycrew) |
 | Bee Agent Framework<br />![](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework) | [i-am-bee/bee-agent-framework: Framework for building scalable agentic applications. (github.com)](https://github.com/i-am-bee/bee-agent-framework) |
 | OWL<br />![](https://img.shields.io/github/stars/camel-ai/owl) | [camel-ai/owl: 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (github.com)](https://github.com/camel-ai/owl) |
-|                                                              |                                                              |
+| LangGraph<br />![](https://img.shields.io/github/stars/langchain-ai) | [langchain-ai/langgraph: Build resilient language agents as graphs. (github.com)](https://github.com/langchain-ai/langgraph/tree/main) |
+| smolagents<br />![](https://img.shields.io/github/stars/huggingface/smolagents) | [huggingface/smolagents: 🤗 smolagents: a barebones library for agents that think in python code. (github.com)](https://github.com/huggingface/smolagents) |
 
 
 
