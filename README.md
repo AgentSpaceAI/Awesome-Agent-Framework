@@ -70,6 +70,7 @@ AgentSpace精选主流Agent开发框架集合，欢迎通过AgentSpace助手交�
 | OWL<br />![](https://img.shields.io/github/stars/camel-ai/owl) | [camel-ai/owl: 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (github.com)](https://github.com/camel-ai/owl) |
 | LangGraph<br />![](https://img.shields.io/github/stars/langchain-ai) | [langchain-ai/langgraph: Build resilient language agents as graphs. (github.com)](https://github.com/langchain-ai/langgraph/tree/main) |
 | smolagents<br />![](https://img.shields.io/github/stars/huggingface/smolagents) | [huggingface/smolagents: 🤗 smolagents: a barebones library for agents that think in python code. (github.com)](https://github.com/huggingface/smolagents) |
+| Future AGI<br />![](https://img.shields.io/github/stars/future-agi/future-agi) | [future-agi/future-agi: Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable, Apache-2.0 (github.com)](https://github.com/future-agi/future-agi) |
 
 
 
